@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "express": "~4.14.0",
-    "properties-reader": "0.0.15",
+    "properties-reader": "2.1.1",
     "socket.io": "^1.5.1",
     "websocket": "^1.0.23"
   },
